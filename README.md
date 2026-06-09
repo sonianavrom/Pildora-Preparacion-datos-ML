@@ -10,7 +10,7 @@ Este espacio está diseñado para centralizar el acceso a la presentación teór
 * **Data Leakage o Fuga de Datos**: La Fuga de Datos se refiere a que el modelo puede entrenarse con información del futuro (del conjunto de test) que no debería conocer, contaminando la información.
 
 ## 🚀 Acceso a los materiales
-📊 **Presentación** | Diapositivas completas con la teoría y diagramas del ciclo del dato.
+📊 **Presentación** | Diapositivas completas con la teoría.
 
 Enlace a la [presentación](https://canva.link/zb9hwvznk6v12wi).
 
